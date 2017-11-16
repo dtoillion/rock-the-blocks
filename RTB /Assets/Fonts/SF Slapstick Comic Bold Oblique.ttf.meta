@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d738d399d8e4e483b8291b8cf43925ff
+timeCreated: 1506870340
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Slapstick Comic
+  fontNames:
+  - SF Slapstick Comic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 77b64a21a66754285927abb0c15ce4c4, type: 3}
+  - {fileID: 12800000, guid: 1c3079819edc24c8da606b014a61fa72, type: 3}
+  - {fileID: 12800000, guid: d2948da9b0682405c82b5c71a9500731, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

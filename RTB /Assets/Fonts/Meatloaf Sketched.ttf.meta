@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e6d9ec334b34d414686a8ceac3fc2aef
+timeCreated: 1506870340
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: meatloaf sketched
+  fontNames:
+  - meatloaf sketched
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
