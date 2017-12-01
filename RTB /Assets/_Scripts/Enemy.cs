@@ -31,6 +31,9 @@ public class Enemy : MonoBehaviour {
     {
       if(!Dead){
         Dead = true;
+        if(collision.gameObject.tag == "Boundary") {
+          GameController.control.GameOver();
+        }
         if(collision.gameObject.tag == "Projectile") {
           Instantiate(ScoreTextPrefab, transform.position, Quaternion.Euler(90,0,0));
           GameController.control.Score += 100f;
